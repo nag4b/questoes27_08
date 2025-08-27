@@ -1,0 +1,6 @@
+banana
+laranja
+maçã
+melancia
+pera
+uva

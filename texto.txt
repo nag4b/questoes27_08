@@ -1,0 +1,3 @@
+esse é um texto de exemplo. Ele tem várias palavras, algumas repetidas, e pontuação!
+Palavras únicas devem ser contadas corretamente.
+Exemplo, exemplo, exemplo.
